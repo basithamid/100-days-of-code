@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: Jan 1 2018, Monday
+### Day 1: Jan 1 2018, Monday ( Example 1 )
 
 **Today's Progress**: Solved a simple challenge on hackerEarth. The problem includes taking a list of numbers and finding the count of 1's in the binary conversion of each number in the list and then sorting the printing the list after sorting it by the count of 1's in ascending order.
 
