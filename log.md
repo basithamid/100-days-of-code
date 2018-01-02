@@ -2,9 +2,9 @@
 
 ### Day 1: Jan 1 2018, Monday
 
-**Today's Progress**: I've joined hackerEarth to solve problems using Python as the programming language to get better at it and solved a simple challenge.
+**Today's Progress**: Solved a simple challenge on hackerEarth. The problem includes taking a list of numbers and finding the count of 1's in the binary conversion of each number in the list and then sorting the printing the list after sorting it by the count of 1's in ascending order.
 
-**Thoughts** I've recently started learning Pyhton, and I feel solving problems like this will only help me improve.
+**Thoughts**: Used data structures including list, dict and tuple. 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
