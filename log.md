@@ -17,8 +17,8 @@
 ### Day 2: Jan 2 2018, wednesday 
 
 **Today's Progress**: 
-1. Using splinter, wrote a script to find the current price of bitcoin and the INR equiavalent of USD. Still need to figure out how to fill the tweet box.
-**Thoughts**: Getting there.
+1. Using splinter, wrote a script to find the current price of bitcoin and the INR equiavalent of USD. And tweet the latest price of bitcoin in USD and INR.
+**Thoughts**: Getting the hang of splinter. Still need to solve a few bugs. Hopefully create a twitter bot which does the same thing, soon enough.
 
 **Link(s) to work**
 1. [Tweet Bitcoin Price](https://github.com/basithamid/python-splinter/blob/master/bitcoin-price-tweeter.py)
