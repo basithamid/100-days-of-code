@@ -36,8 +36,8 @@
 2. Shifting focus to algorithms in java for a few days . Implemented quicksort and mergesort.
 
 **Links to work**:
-1. [PremierLeague Table scraping]("https://github.com/basithamid/scrapping/blob/master/plscrapping.py")
-2. [Quicksort]("https://github.com/basithamid/algorithms/blob/master/Quicksort.java") and [Mergesort]("https://github.com/basithamid/algorithms/blob/master/MergeSort.java")
+1. [PremierLeague Table scraping](https://github.com/basithamid/scrapping/blob/master/plscrapping.py)
+2. [Quicksort](https://github.com/basithamid/algorithms/blob/master/Quicksort.java) and [Mergesort](https://github.com/basithamid/algorithms/blob/master/MergeSort.java)
 
 
 
