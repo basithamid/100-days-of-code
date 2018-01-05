@@ -14,7 +14,7 @@
 1. [Sort by Binary 1's](https://github.com/basithamid/Python-Challenges/blob/master/sort-by-binary-ones.py)
 2. [Goto my Twitter profile](https://github.com/basithamid/python-splinter/blob/master/test.py)
 
-### Day 2: Jan 2 2018, wednesday 
+### Day 2: Jan 3 2018, wednesday 
 
 **Today's Progress**: 
 1. Using splinter, wrote a script to find the current price of bitcoin and the INR equiavalent of USD. And tweet the latest price of bitcoin in USD and INR.
@@ -22,5 +22,23 @@
 
 **Link(s) to work**
 1. [Tweet Bitcoin Price](https://github.com/basithamid/python-splinter/blob/master/bitcoin-price-tweeter.py)
+
+
+### Day 3: Jan 4 2018, Thursday 
+
+**Today's Progress**: Started scraping premierleague.com/tables using python library BeautifulSoup. Got nowhere with it.
+
+### Day 4: Jan 5 2018, Friday
+
+**Today's Progress**: 
+1. Scraped a little of premierleague.com/tables.. was only able to scrape the names of the teams from the table.
+**Thoughts**: BeautifulSoup is not as easy as it looks.
+2. Shifting focus to algorithms in java for a few days . Implemented quicksort and mergesort.
+
+**Links to work**:
+1. [PremierLeague Table scraping]("https://github.com/basithamid/scrapping/blob/master/plscrapping.py")
+2. [Quicksort]("https://github.com/basithamid/algorithms/blob/master/Quicksort.java") and [Mergesort]("https://github.com/basithamid/algorithms/blob/master/MergeSort.java")
+
+
 
 
