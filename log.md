@@ -44,5 +44,8 @@
 **Today's Progress**: Fixed bugs in the bitcoin tweeter. Set an 1 hour delay between tweets.
 **Thoughts**: Satisfaction
 
+**Link(s) to work**
+1. [Tweet Bitcoin Price](https://github.com/basithamid/python-splinter/blob/master/bitcoin-price-tweeter.py)
+
 
 
