@@ -39,7 +39,7 @@
 1. [PremierLeague Table scraping](https://github.com/basithamid/scrapping/blob/master/plscrapping.py)
 2. [Quicksort](https://github.com/basithamid/algorithms/blob/master/Quicksort.java) and [Mergesort](https://github.com/basithamid/algorithms/blob/master/MergeSort.java)
 
-### Day 5: Jan 6 2018, Saturday
+### Day 6: Jan 6 2018, Saturday
 
 **Today's Progress**: Fixed bugs in the bitcoin tweeter. Set an 1 hour delay between tweets.
 **Thoughts**: Satisfaction
@@ -49,13 +49,13 @@
 
 
 
-### Day 5: Jan 7 2018, Sunday
+### Day 7: Jan 7 2018, Sunday
 
 **Today's Progress**: Wrote a couple of APIs using Flask and Insertion Sort algorithm in Java.
 **Link(s) to work**
 1. [ParkingAtYourOwnRisk](https://github.com/djpranshu/ParkingAtOwnersRisk/tree/master/BackEnd)
 2. [Insertion Sort](https://github.com/basithamid/algorithms/blob/master/InsertionSort.java)
 
-### Day 5: Jan 8 2018, Monday
+### Day 8: Jan 8 2018, Monday
 
-**Today's Progress**: Revisiting HTML and CSS on freeCodeCamp and solved about a 100 challenges.
+**Today's Progress**: Revisiting HTML and CSS on freeCodeCamp and solved about a 100 challenges and wrote an api in flask.
