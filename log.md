@@ -49,3 +49,13 @@
 
 
 
+### Day 5: Jan 7 2018, Sunday
+
+**Today's Progress**: Wrote a couple of APIs using Flask and Insertion Sort algorithm in Java.
+**Link(s) to work**
+1. [ParkingAtYourOwnRisk](https://github.com/djpranshu/ParkingAtOwnersRisk/tree/master/BackEnd)
+2. [Insertion Sort](https://github.com/basithamid/algorithms/blob/master/InsertionSort.java)
+
+### Day 5: Jan 8 2018, Monday
+
+**Today's Progress**: Revisiting HTML and CSS on freeCodeCamp and solved about a 100 challenges.
