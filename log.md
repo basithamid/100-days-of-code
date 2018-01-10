@@ -59,3 +59,8 @@
 ### Day 8: Jan 8 2018, Monday
 
 **Today's Progress**: Revisiting HTML and CSS on freeCodeCamp and solved about a 100 challenges and wrote an api in flask.
+
+
+### Day 9 & 10: Jan 9,10 2018, Tuesday & Wednesday
+**Today's Progress**: Done upto the jQuery part on freeCodeCamp.org .. solved a couple of problems on hackerEarth..and wrote apis 
+and used pymongo and pymysql for 2 separate projects using the apis.
