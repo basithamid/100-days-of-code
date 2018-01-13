@@ -64,3 +64,8 @@
 ### Day 9 & 10: Jan 9,10 2018, Tuesday & Wednesday
 **Today's Progress**: Done upto the jQuery part on freeCodeCamp.org .. solved a couple of problems on hackerEarth..and wrote apis 
 and used pymongo and pymysql for 2 separate projects using the apis.
+
+Skipped a day
+### Day 11 & 12: Jan 12 & 13 2018, Friday, Saturday
+
+**Today's Progress**: Revisiting data structures..this time in Python.
