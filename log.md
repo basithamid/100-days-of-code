@@ -32,6 +32,7 @@
 
 **Today's Progress**: 
 1. Scraped a little of premierleague.com/tables.. was only able to scrape the names of the teams from the table.
+
 **Thoughts**: BeautifulSoup is not as easy as it looks.
 2. Shifting focus to algorithms in java for a few days . Implemented quicksort and mergesort.
 
