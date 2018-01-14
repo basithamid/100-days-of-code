@@ -68,4 +68,6 @@ and used pymongo and pymysql for 2 separate projects using the apis.
 Skipped a day
 ### Day 11 & 12: Jan 12 & 13 2018, Friday, Saturday
 
-**Today's Progress**: Revisiting data structures..this time in Python.
+**Today's Progress**: Revisiting data structures..this time in Python. Also, solved a problem on hackerrank.
+**Link(s) to work**
+1. [Anagrams](https://github.com/basithamid/Python-Challenges/blob/master/anagrams.py)
