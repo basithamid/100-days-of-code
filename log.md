@@ -79,4 +79,5 @@ Skipped a day
 **Thought**: Taking time to figure out the iterative traversals..
 **Link(s) to work**
 1. [Huffman decoding problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
+2. [BST](https://github.com/basithamid/algorithms/blob/master/bst.py)
 
