@@ -74,10 +74,12 @@ Skipped a day
 1. [Anagrams](https://github.com/basithamid/Python-Challenges/blob/master/anagrams.py)
 
 
-### Day 13: Jan 14 2018, Sunday
+### Day 13,14: Jan 14,15 2018, Sunday, Monday
 
 **Today's Progress**: Huffman tree decoding problem on hackerrenk.. And working on binary search tree with recursive and iterative traversals..
-**Thought**: Taking time to figure out the iterative traversals..
+
+**Thought**: Taking time to figure out the iterative traversals..Done with them in Day 14
+
 **Link(s) to work**
 1. [Huffman decoding problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
 2. [BST](https://github.com/basithamid/algorithms/blob/master/bst.py)
