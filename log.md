@@ -84,3 +84,7 @@ Skipped a day
 1. [Huffman decoding problem](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem)
 2. [BST](https://github.com/basithamid/algorithms/blob/master/bst.py)
 
+
+### Day 15: Jan 17 2018, Wednesday
+
+**Today's Progress**: Coding on hackerearth
