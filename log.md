@@ -85,6 +85,6 @@ Skipped a day
 2. [BST](https://github.com/basithamid/algorithms/blob/master/bst.py)
 
 
-### Day 15: Jan 17 2018, Wednesday
+### Day 15,16: Jan 17,18 2018, Wednesday, Thursday
 
-**Today's Progress**: Coding on hackerearth
+**Today's Progress**: Coding challenges on hackerearth
