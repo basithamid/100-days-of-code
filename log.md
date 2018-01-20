@@ -88,3 +88,8 @@ Skipped a day
 ### Day 15,16: Jan 17,18 2018, Wednesday, Thursday
 
 **Today's Progress**: Coding challenges on hackerearth
+
+
+### Day 17: Jan 19 2018, Friday
+
+**Today's Progress**: solved some challenged on hackerearth..and back to studying Java
