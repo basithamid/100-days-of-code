@@ -90,6 +90,6 @@ Skipped a day
 **Today's Progress**: Coding challenges on hackerearth
 
 
-### Day 17-21: Jan 19,20,21 2018, Friday - Sunday, Wedneday-Thursday
+### Day 17-22: Jan 19-21, 24-26, 2018, Friday - Sunday, Wedneday-Friday
 
 **Today's Progress**: solved some challenges on hackerearth..and back to studying Java
